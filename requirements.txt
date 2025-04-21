@@ -1,0 +1,10 @@
+tensorflow>=2.9.0
+tflite-model-maker
+streamlit
+pillow
+opencv-python-headless
+numpy
+ultralytics
+pillow
+protobuf==3.20.1
+

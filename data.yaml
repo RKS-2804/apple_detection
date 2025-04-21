@@ -1,0 +1,5 @@
+names:
+- apple
+nc: 1
+train: C:/Users/Admin/Internship/projects/Apple Detection/yolo_dataset/images
+val: C:/Users/Admin/Internship/projects/Apple Detection/yolo_dataset/images
